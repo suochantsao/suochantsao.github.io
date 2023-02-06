@@ -5240,7 +5240,7 @@ fieldset[disabled] .button {
 }
 @media screen and (min-width: 1472px) {
   .container {
-    max-width: 1344px;
+    max-width: 1600px;
   }
 }
 .content li + li {
@@ -5255,6 +5255,7 @@ fieldset[disabled] .button {
 .content table:not(:last-child) {
   margin-bottom: 1em;
 }
+
 .content h1,
 .content h2,
 .content h3,
@@ -5263,7 +5264,7 @@ fieldset[disabled] .button {
 .content h6 {
   color: #363636;
   font-weight: 400;
-  line-height: 1.125;
+  line-height: 5;
 }
 .content h1 {
   font-size: 2em;

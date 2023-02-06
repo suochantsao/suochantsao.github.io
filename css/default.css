@@ -5254,6 +5254,7 @@ fieldset[disabled] .button {
 .content pre:not(:last-child),
 .content table:not(:last-child) {
   margin-bottom: 1em;
+  line-height: 2 !important;
 }
 .content h1,
 .content h2,
@@ -11364,18 +11365,18 @@ figure.highlight.foldable div.level-left {
 .widget .menu-list .level .level-right {
   align-items: flex-start;
 }
-.widget .menu-list .tag {
+/* .widget .menu-list .tag {
   background: $light-grey;
   color: $white-invert;
-}
+} */
 .widget .tags .tag:first-child {
   background: #3273dc;
   color: #fff;
 }
-.widget .tags .tag:last-child {
+/* .widget .tags .tag:last-child {
   background: $light-grey;
   color: $white-invert;
-}
+} */
 .level.is-multiline {
   flex-wrap: wrap;
 }
