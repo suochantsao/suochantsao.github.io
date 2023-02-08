@@ -10814,7 +10814,8 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  line-height: 2;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10854,6 +10855,10 @@ article.article .content .message.message-immersive {
 }
 article.article .content .message.message-immersive .message-body {
   border: none;
+}
+article.article .content a img {
+  margin: auto;
+  display: block;
 }
 article.article .article-tags {
   display: flex;

@@ -5254,7 +5254,6 @@ fieldset[disabled] .button {
 .content pre:not(:last-child),
 .content table:not(:last-child) {
   margin-bottom: 1em;
-  line-height: 2 !important;
 }
 .content h1,
 .content h2,
@@ -10814,7 +10813,8 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  line-height: 2;
 }
 article.article .content h1 {
   font-size: 1.75em;
@@ -10854,6 +10854,10 @@ article.article .content .message.message-immersive {
 }
 article.article .content .message.message-immersive .message-body {
   border: none;
+}
+article.article .content a img {
+  margin: auto;
+  display: block;
 }
 article.article .article-tags {
   display: flex;
@@ -11365,18 +11369,18 @@ figure.highlight.foldable div.level-left {
 .widget .menu-list .level .level-right {
   align-items: flex-start;
 }
-/* .widget .menu-list .tag {
+.widget .menu-list .tag {
   background: $light-grey;
   color: $white-invert;
-} */
+}
 .widget .tags .tag:first-child {
   background: #3273dc;
   color: #fff;
 }
-/* .widget .tags .tag:last-child {
+.widget .tags .tag:last-child {
   background: $light-grey;
   color: $white-invert;
-} */
+}
 .level.is-multiline {
   flex-wrap: wrap;
 }
