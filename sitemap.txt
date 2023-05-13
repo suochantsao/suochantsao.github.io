@@ -1,3 +1,4 @@
+https://suochantsao.github.io/2023/05/13/kata-opposites-attract/
 https://suochantsao.github.io/2023/03/06/hexadecimal-hexi/
 https://suochantsao.github.io/2023/02/16/scrum-framework-three-roles/
 https://suochantsao.github.io/2023/02/08/icarus-style-file/
@@ -37,9 +38,15 @@ https://suochantsao.github.io/tags/Hexi/
 https://suochantsao.github.io/tags/16%E9%80%B2%E4%BD%8D/
 https://suochantsao.github.io/tags/CS/
 https://suochantsao.github.io/tags/NumberingSystem/
+https://suochantsao.github.io/tags/C/
+https://suochantsao.github.io/tags/Kata/
+https://suochantsao.github.io/tags/Codewars/
+https://suochantsao.github.io/tags/KataPractice/
+https://suochantsao.github.io/tags/Fundamentals/
 https://suochantsao.github.io/categories/Debug-Series/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/React-js-28days-Notes/
 https://suochantsao.github.io/categories/Vue-js/
 https://suochantsao.github.io/categories/Scrum/
 https://suochantsao.github.io/categories/CS-Series/
+https://suochantsao.github.io/categories/Kata-Practice/
