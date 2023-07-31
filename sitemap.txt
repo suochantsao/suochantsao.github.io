@@ -49,6 +49,7 @@ https://suochantsao.github.io/tags/Fundamentals/
 https://suochantsao.github.io/tags/Diary/
 https://suochantsao.github.io/tags/Tools/
 https://suochantsao.github.io/tags/GoogleExtension/
+https://suochantsao.github.io/tags/WebSecurity/
 https://suochantsao.github.io/categories/Debug-Series/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/React-js-28days-Notes/
