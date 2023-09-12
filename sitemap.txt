@@ -1,3 +1,4 @@
+https://suochantsao.github.io/2023/09/13/JavaScript-Debounce-and-Thorttle/
 https://suochantsao.github.io/2023/09/06/C-01-course/
 https://suochantsao.github.io/2023/09/01/20230901-log-C-workshop/
 https://suochantsao.github.io/2023/08/31/20230816-log-Testing-tools/
@@ -63,6 +64,10 @@ https://suochantsao.github.io/tags/Swagger/
 https://suochantsao.github.io/tags/BlankSpace/
 https://suochantsao.github.io/tags/API/
 https://suochantsao.github.io/tags/%E7%A9%BA%E7%99%BD/
+https://suochantsao.github.io/tags/JavaScript/
+https://suochantsao.github.io/tags/Debounce/
+https://suochantsao.github.io/tags/Thorttle/
+https://suochantsao.github.io/tags/interview/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/C/
 https://suochantsao.github.io/categories/CS-Series/
@@ -71,3 +76,4 @@ https://suochantsao.github.io/categories/Vue-js/
 https://suochantsao.github.io/categories/React-js-30-Days/
 https://suochantsao.github.io/categories/Debug-Series/
 https://suochantsao.github.io/categories/Scrum/
+https://suochantsao.github.io/categories/JavaScript/
