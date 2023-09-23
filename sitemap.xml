@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suochantsao.github.io/2023/09/23/vscode-extension-vim-jumpy-solution/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/2023/09/23/npm-node-version-error-problem-solution/</loc>
+    
+    <lastmod>2023-09-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suochantsao.github.io/2023/09/22/graphql-restful-api-design/</loc>
     
     <lastmod>2023-09-22</lastmod>
@@ -572,6 +590,62 @@
   
   <url>
     <loc>https://suochantsao.github.io/tags/Design/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/NPM/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/NodeJS/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/Version/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/Solution/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/VSCode/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/extension/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/vim/</loc>
+    <lastmod>2023-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/Jumpy/</loc>
     <lastmod>2023-09-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

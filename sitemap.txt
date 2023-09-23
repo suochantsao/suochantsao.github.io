@@ -1,3 +1,5 @@
+https://suochantsao.github.io/2023/09/23/vscode-extension-vim-jumpy-solution/
+https://suochantsao.github.io/2023/09/23/npm-node-version-error-problem-solution/
 https://suochantsao.github.io/2023/09/22/graphql-restful-api-design/
 https://suochantsao.github.io/2023/09/22/C-02-Challenge/
 https://suochantsao.github.io/2023/09/06/C-01-course/
@@ -74,6 +76,14 @@ https://suochantsao.github.io/tags/WebDevelopment/
 https://suochantsao.github.io/tags/GraphQL/
 https://suochantsao.github.io/tags/RESTful/
 https://suochantsao.github.io/tags/Design/
+https://suochantsao.github.io/tags/NPM/
+https://suochantsao.github.io/tags/NodeJS/
+https://suochantsao.github.io/tags/Version/
+https://suochantsao.github.io/tags/Solution/
+https://suochantsao.github.io/tags/VSCode/
+https://suochantsao.github.io/tags/extension/
+https://suochantsao.github.io/tags/vim/
+https://suochantsao.github.io/tags/Jumpy/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/JavaScript/
 https://suochantsao.github.io/categories/Debug-Series/
