@@ -1,3 +1,4 @@
+https://suochantsao.github.io/2023/09/22/graphql-restful-api-design/
 https://suochantsao.github.io/2023/09/22/C-02-Challenge/
 https://suochantsao.github.io/2023/09/06/C-01-course/
 https://suochantsao.github.io/2023/09/13/JavaScript-Debounce-and-Thorttle/
@@ -69,6 +70,10 @@ https://suochantsao.github.io/tags/VueDirective/
 https://suochantsao.github.io/tags/%E4%BA%8B%E4%BB%B6%E7%B6%81%E5%AE%9A/
 https://suochantsao.github.io/tags/%E6%8C%87%E4%BB%A4/
 https://suochantsao.github.io/tags/v-on/
+https://suochantsao.github.io/tags/WebDevelopment/
+https://suochantsao.github.io/tags/GraphQL/
+https://suochantsao.github.io/tags/RESTful/
+https://suochantsao.github.io/tags/Design/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/JavaScript/
 https://suochantsao.github.io/categories/Debug-Series/
@@ -78,3 +83,4 @@ https://suochantsao.github.io/categories/React-js-30-Days/
 https://suochantsao.github.io/categories/Scrum/
 https://suochantsao.github.io/categories/Vue-js/
 https://suochantsao.github.io/categories/C-Challenge/
+https://suochantsao.github.io/categories/Web-Development/
