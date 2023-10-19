@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://suochantsao.github.io/2023/10/19/csharp-freecodecamp-challenge-14/</loc>
+    <loc>https://suochantsao.github.io/2023/10/19/vim-command-useful-note-multipleselect/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/2023/10/19/design-pattern-guide-introduction/</loc>
     
     <lastmod>2023-10-19</lastmod>
     
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://suochantsao.github.io/2023/10/19/design-pattern-guide-introduction/</loc>
+    <loc>https://suochantsao.github.io/2023/10/19/csharp-freecodecamp-challenge-14/</loc>
     
     <lastmod>2023-10-19</lastmod>
     
@@ -898,6 +907,34 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://suochantsao.github.io/tags/Vim/</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/Command/</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/MultipleSelect/</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/tags/Methods/</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -979,6 +1016,13 @@
   
   <url>
     <loc>https://suochantsao.github.io/categories/Design-Pattern/</loc>
+    <lastmod>2023-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/categories/Vim/</loc>
     <lastmod>2023-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
