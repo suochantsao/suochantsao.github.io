@@ -1,3 +1,4 @@
+https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-19/
 https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-18/
 https://suochantsao.github.io/2023/10/22/design-pattern-guide-introduction/
 https://suochantsao.github.io/2023/10/22/program-process-thread-cs-basic-knowledge/
