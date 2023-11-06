@@ -1,3 +1,5 @@
+https://suochantsao.github.io/2023/11/03/vim-command-leave-edit-mode/
+https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-22/
 https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-21/
 https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-19/
 https://suochantsao.github.io/2023/10/23/csharp-freecodecamp-challenge-18/
@@ -126,6 +128,9 @@ https://suochantsao.github.io/tags/Vim/
 https://suochantsao.github.io/tags/Command/
 https://suochantsao.github.io/tags/MultipleSelect/
 https://suochantsao.github.io/tags/Methods/
+https://suochantsao.github.io/tags/Exit/
+https://suochantsao.github.io/tags/Save/
+https://suochantsao.github.io/tags/Quit/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/JavaScript/
 https://suochantsao.github.io/categories/Debug-Series/
