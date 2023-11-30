@@ -1,3 +1,4 @@
+https://suochantsao.github.io/2023/11/30/typescript-handbook-series-basic-introduction/
 https://suochantsao.github.io/2023/11/29/vuei18n-array-value-tm-t/
 https://suochantsao.github.io/2023/11/26/design-pattern-guide-introduction/
 https://suochantsao.github.io/2023/11/26/program-process-thread-cs-basic-knowledge/
@@ -136,6 +137,11 @@ https://suochantsao.github.io/tags/Vue3/
 https://suochantsao.github.io/tags/I18n/
 https://suochantsao.github.io/tags/Array/
 https://suochantsao.github.io/tags/Object/
+https://suochantsao.github.io/tags/TypeScript/
+https://suochantsao.github.io/tags/Basic/
+https://suochantsao.github.io/tags/Handbook/
+https://suochantsao.github.io/tags/TypeScriptBasics/
+https://suochantsao.github.io/tags/TypeScriptDoc/
 https://suochantsao.github.io/categories/SuoChan-s-Log/
 https://suochantsao.github.io/categories/JavaScript/
 https://suochantsao.github.io/categories/Debug-Series/
@@ -149,3 +155,4 @@ https://suochantsao.github.io/categories/Web-Development/
 https://suochantsao.github.io/categories/CSS/
 https://suochantsao.github.io/categories/Design-Pattern/
 https://suochantsao.github.io/categories/Vim/
+https://suochantsao.github.io/categories/TypeScript/
