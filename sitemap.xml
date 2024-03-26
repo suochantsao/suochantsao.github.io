@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://suochantsao.github.io/20240324/codewars-kata-javascript-practice-sum-arrays/</loc>
+    <loc>https://suochantsao.github.io/20230513/kata-opposites-attract/</loc>
     
-    <lastmod>2024-03-24</lastmod>
+    <lastmod>2024-03-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +22,16 @@
   <url>
     <loc>https://suochantsao.github.io/20230518/kata-dna-to-rna-conversion/</loc>
     
-    <lastmod>2024-03-24</lastmod>
+    <lastmod>2024-03-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/20240324/codewars-kata-javascript-practice-sum-arrays/</loc>
+    
+    <lastmod>2024-03-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -318,15 +327,6 @@
   
   <url>
     <loc>https://suochantsao.github.io/20230104/vuejs-von-directive/</loc>
-    
-    <lastmod>2023-09-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://suochantsao.github.io/20230513/kata-opposites-attract/</loc>
     
     <lastmod>2023-09-26</lastmod>
     
@@ -1202,13 +1202,6 @@
   </url>
   
   <url>
-    <loc>https://suochantsao.github.io/categories/Kata-Practice/</loc>
-    <lastmod>2024-03-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://suochantsao.github.io/categories/React-js-30-Days/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -1266,6 +1259,20 @@
   
   <url>
     <loc>https://suochantsao.github.io/categories/TypeScript/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/categories/Kata-Practice-JavaScript/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://suochantsao.github.io/categories/Kata-Practice-C/</loc>
     <lastmod>2024-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
