@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suochantsao.github.io/20240424/codewars-kata-javascript-practice-convert-number-to-reversed-array-of-digits/</loc>
+    
+    <lastmod>2024-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suochantsao.github.io/20240421/codewars-kata-javascript-practice-calculate-average/</loc>
     
     <lastmod>2024-04-23</lastmod>
