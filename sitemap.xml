@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suochantsao.github.io/20240509/codewars-kata-javascript-practice-reverse-words/</loc>
+    
+    <lastmod>2024-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suochantsao.github.io/20240506/codewars-kata-javascript-practice-binary-addition/</loc>
     
     <lastmod>2024-05-09</lastmod>
