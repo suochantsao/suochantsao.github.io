@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://suochantsao.github.io/20240606/codewars-kata-javascript-practice-sum-of-two-lowest-positive-integers/</loc>
+    
+    <lastmod>2024-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://suochantsao.github.io/20240604/codewars-kata-javascript-practice-square-every-digit/</loc>
     
     <lastmod>2024-06-06</lastmod>
